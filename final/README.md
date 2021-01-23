@@ -8,4 +8,4 @@
 * report/ Rapor dosyaları .docx ve .pdf dosyaları.
 * screenshots/ Uygulamadan alınan ekran görüntüleri.
 
-## Abdulbaki Zırıh
+## Baran Kemer
