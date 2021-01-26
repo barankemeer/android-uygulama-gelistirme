@@ -1,2 +1,0 @@
-include ':app'
-rootProject.name = "İngilizce Kelime Öğretici Kartlar"
